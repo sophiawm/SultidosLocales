@@ -1,7 +1,7 @@
 # SultidosLocales
  
 Description:
-This project is a back-end application built with JavaScript and MySQL for e-commerce. It serves as the server-side component of a larger application, handling data storage, retrieval, and business logic.
+This project is a back-end application built with JavaScript and MySQL for e-commerce. This e-commerce is for a local Peruvian-based store. It serves as the server-side component of a larger application, handling data storage, retrieval, and business logic.
 
 **Table of Contents**
 Installation
