@@ -24,11 +24,12 @@ Install dependencies:
 bash
 Run through terminal 
 1. npm init -y
-2. npm install express sequelize mysql2
-3. npm install nodemon -d
-4. npm install --save-d jest
-5. npm install --save-d supertest
-6. npm install cors
+2. npm install express
+3. npm install express sequelize mysql2
+4. npm install nodemon -d
+5. npm install --save-d jest
+6. npm install --save-d supertest
+7. npm install cors
 
 **Configuration**
 Update the package.json under "main":
